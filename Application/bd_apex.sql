@@ -1057,114 +1057,114 @@ commit;
 --Test Camisoles
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(1,'5-6','h','Bleue','Large');
+values(1,'5-6','h','Bleu','Large');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(12,'5-6','h','Bleue','Large');
+values(12,'5-6','h','Bleu','Large');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(14,'5-6','h','Bleue','Large');
+values(14,'5-6','h','Bleu','Large');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(33,'5-6','h','Bleue','Medium');
+values(33,'5-6','h','Bleu','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(45,'5-6','h','Bleue','Medium');
+values(45,'5-6','h','Bleu','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(51,'5-6','h','Bleue','Medium');
+values(51,'5-6','h','Bleu','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(54,'5-6','h','Bleue','X Large');
+values(54,'5-6','h','Bleu','X Large');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(39,'5-6','h','Bleue','X Large');
-
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(12,'Mini 4','h','Bleue','Small');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(11,'Mini 4','h','Bleue','Small');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(8,'Mini 4','h','Bleue','Small');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(4,'Mini 4','h','Bleue','X Small');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(24,'Mini 4','h','Bleue','Small');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(35,'Mini 4','h','Bleue','Medium');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(42,'Mini 4','h','Bleue','XL Youth');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(51,'Mini 4','h','Bleue','XL Youth');
-
+values(39,'5-6','h','Bleu','X Large');
 
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(17,'5-6','f','Royale','Medium');
+values(12,'Mini 4','h','Bleu','Small');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(22,'5-6','f','Royale','Medium');
+values(11,'Mini 4','h','Bleu','Small');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(25,'5-6','f','Royale','Medium');
+values(8,'Mini 4','h','Bleu','Small');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(31,'5-6','f','Royale','Medium');
+values(4,'Mini 4','h','Bleu','X Small');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(41,'5-6','f','Royale','Medium');
+values(24,'Mini 4','h','Bleu','Small');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(43,'5-6','f','Royale','Medium');
+values(35,'Mini 4','h','Bleu','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(11,'5-6','f','Royale','Medium');
+values(42,'Mini 4','h','Bleu','XL Youth');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(8,'5-6','f','Royale','Medium');
-
-insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(24,'5-6','f','Royale','Medium');
+values(51,'Mini 4','h','Bleu','XL Youth');
 
 
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(12,'Mini 4','f','Blanche','L Youth');
+values(17,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(20,'Mini 4','f','Blanche','XL Youth');
+values(22,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(22,'Mini 4','f','Blanche','Small');
+values(25,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(32,'Mini 4','f','Blanche','Small');
+values(31,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(42,'Mini 4','f','Blanche','XL Youth');
+values(41,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(2,'Mini 4','f','Blanche','L Youth');
+values(43,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(7,'Mini 4','f','Blanche','XL Youth');
+values(11,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(41,'Mini 4','f','Blanche','Medium');
+values(8,'5-6','f','Royal','Medium');
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(35,'Mini 4','f','Blanche','Medium');
+values(24,'5-6','f','Royal','Medium');
+
+
 
 insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
-values(43,'Mini 4','f','Blanche','Small');
+values(12,'Mini 4','f','Blanc','L Youth');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(20,'Mini 4','f','Blanc','XL Youth');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(22,'Mini 4','f','Blanc','Small');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(32,'Mini 4','f','Blanc','Small');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(42,'Mini 4','f','Blanc','XL Youth');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(2,'Mini 4','f','Blanc','L Youth');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(7,'Mini 4','f','Blanc','XL Youth');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(41,'Mini 4','f','Blanc','Medium');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(35,'Mini 4','f','Blanc','Medium');
+
+insert into camisoles (No_camisole,categorie_age,sexe,couleur,taille) 
+values(43,'Mini 4','f','Blanc','Small');
 
 
 
@@ -1178,8 +1178,6 @@ insert into shorts (taille,quantite) values('X Small',20);
 insert into shorts (taille,quantite) values('Small',11);
 
 insert into shorts (taille,quantite) values('Medium',5);
-
-insert into shorts (taille,quantite) values('Large',12);
 
 insert into shorts (taille,quantite) values('X Large',25);
 
@@ -1282,7 +1280,7 @@ insert into tournois values(null, 'Sainte-Pérpétue', sysdate+500, sysdate +505
 --Test Prets_Equipements
 insert into prets_equipements values(null, sysdate-1000, 1, 1, sysdate + 15, null, 1);
 insert into prets_equipements values(null, sysdate-700, 2, 2, sysdate + 20, null, 3);
-insert into prets_equipements values(null, sysdate-300, 4, 3, sysdate + 120, Sysdate + 120, 4);
+insert into prets_equipements values(null, sysdate-300, 4, 2, sysdate + 120, Sysdate + 120, 4);
 --Test Joueurs blessures
 insert into joueurs_blessures values(null, 'Fracture du Tibia', sysdate-2000, 1);
 insert into joueurs_blessures values(null, 'Fracture du Fémur', sysdate-1500, 1);
